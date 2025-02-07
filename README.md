@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🙎my name is Shadadot Hossain (Sakib) <br>👨🏿‍💻I'm a Full Stack Web Developer<br>🏘️from Bangladesh</h3>
+<h3 align="left">🙎my name is Md. Sihab Hossain <br>👨🏿‍💻I'm a Full Stack Web Developer<br>🏘️from Bangladesh</h3>
 
 ###
 
@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">I am searching for the role of Full Stack Developer at an innovative company where I can utilize my previous experience in designing, coding, testing, debugging, and deploying software and web applications. I have 2-3 years of professional experience in software and web applications-related field.</p>
+<p align="left">I am searching for the role of Full Stack Developer at an innovative company where I can utilize my previous experience in designing, coding, testing, debugging, and deploying software and web applications. I have 1 years of professional experience in software and web applications-related field.</p>
 
 ###
 
-<p align="left">✨ Professional Experience 3years+<br>🎓Education:- B.sc In Computer Science <br>📚 I'm currently learning New technology <br>🎯Feature Goals: Google Amazon Microsoft Meta<br>🎲 Fun fact: Sports, Traveling, Signing</p>
+<p align="left">✨ Professional Experience 1years+<br>🎓Education:- B.sc In Computer Science <br>📚 I'm currently learning New technology <br>🎯Feature Goals: Google Amazon Microsoft Meta<br>🎲 Fun fact: Sports, Traveling, Signing</p>
 
 ###
 
