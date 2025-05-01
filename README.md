@@ -165,4 +165,4 @@
 
 ###
 
-<a href="https://sakibbdcse.github.io/cv-portfolio/">portfolio view</a>
+<a href="https://astonishing-longma-f6db63.netlify.app/">portfolio view</a>
